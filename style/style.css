@@ -1,0 +1,62 @@
+html, body {
+    height: 100vh;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden;
+}
+
+h1 {
+    text-align: center;
+    font-weight: bold;
+    font-family: "Comic Sans MS";
+    color: white;
+    text-shadow: 2px 0 0 black, -2px 0 0 black, 0 2px 0 black, 0 -2px 0 black, 1px 1px black, -1px -1px 0 black, 1px -1px 0 black, -1px 1px 0 black;
+    
+}
+
+.padding-0 {
+    padding-right: 0;
+    padding-left: 0;
+}
+
+#nameCol {
+    height: 100vh;
+    background-color: #28ABE3;
+}
+
+#langCol {
+    /* background-color: #DB3340; */
+    background-color: #555555;
+    left: -15px;
+    height: 100vh;
+}
+
+#courseCol {
+    /* background-color: #E8B71A; */
+    background-color: #555555;
+    height: 100vh;
+}
+
+#contactCol {
+    /* background-color: :#F7EAC8; */
+    background-color: #646060;
+    height: 100vh;
+}
+
+#docCol {
+    /* background-color: :#1FDA9A; */
+    background-color: #646060;
+    height: 100vh;
+}
+
+
+.leave {
+    width: 64px;
+    height: 64px;
+    top: 25px;
+    z-index: 2;
+    position: absolute;
+    right: 50px;
+    z-index: 2;
+}
+

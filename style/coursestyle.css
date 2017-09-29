@@ -1,0 +1,23 @@
+body {
+    background-color: #646060;
+}
+
+.img-grid {
+    width: 100%;
+    height: 33.3vh;
+}
+
+.hide {
+    display: none;
+}
+
+#courseCol {
+    background-color: #E8B71A;
+}
+
+.left-10 {
+    position: relative;
+    left: 10%;
+
+}
+
